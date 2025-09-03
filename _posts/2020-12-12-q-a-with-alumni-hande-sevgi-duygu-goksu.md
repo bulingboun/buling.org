@@ -1,7 +1,12 @@
 ---
-title: Q&A with Alumni - PhD in America
-description: Hande Sevgi and Duygu Göksu.
-tags: [Q&A, Social]
+title: Q&A with Alumni - Hande Sevgi & Duygu Göksu
+description: PhD in America
+tags:
+  - Q&A
+  - Social
+  - Turkish
+  - Hande Sevgi
+  - Duygu Göksu
 pin: true
 math: true
 mermaid: true
