@@ -9,3 +9,32 @@
 ';
 
 /* append your custom style below */
+
+/* Custom wider sidebar */
+#sidebar {
+  width: 240px;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+#sidebar .nav-link {
+  white-space: nowrap;
+}
+
+/* Adjust the wrapper that contains both sidebar and content */
+.page {
+  display: flex;
+}
+
+/* Make sure main content accounts for sidebar width */
+.main-wrapper {
+  margin-left: 240px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Optional: prevent overflow for sidebar */
+#sidebar {
+  overflow-y: auto;
+  max-height: 100vh;
+}
