@@ -6,7 +6,6 @@ tags:
   - Social
   - Turkish
   - Özge Bakay
-pin: true
 math: true
 mermaid: true
 ---

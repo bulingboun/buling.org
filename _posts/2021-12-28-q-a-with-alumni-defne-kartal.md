@@ -6,7 +6,6 @@ tags:
   - Social
   - Turkish
   - Defne Kartal
-pin: true
 math: true
 mermaid: true
 ---

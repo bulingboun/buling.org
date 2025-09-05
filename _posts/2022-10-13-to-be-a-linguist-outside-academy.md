@@ -9,7 +9,6 @@ tags:
   - NLP
   - Computational Linguistics
   - AI
-pin: true
 math: true
 mermaid: true
 ---

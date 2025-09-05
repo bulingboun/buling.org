@@ -5,7 +5,6 @@ tags:
   - Social
   - Turkish
   - Sign Languages
-pin: true
 math: true
 mermaid: true
 ---

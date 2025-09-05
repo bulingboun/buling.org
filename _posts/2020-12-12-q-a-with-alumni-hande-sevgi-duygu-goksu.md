@@ -7,7 +7,6 @@ tags:
   - Turkish
   - Hande Sevgi
   - Duygu Göksu
-pin: true
 math: true
 mermaid: true
 ---

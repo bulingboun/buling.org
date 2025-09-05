@@ -7,7 +7,6 @@ tags:
   - Turkish
   - Hülya Kocagül Yüzer
   - Forensic Linguistics
-pin: true
 math: true
 mermaid: true
 ---

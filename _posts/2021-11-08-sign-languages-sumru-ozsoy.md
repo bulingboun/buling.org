@@ -2,12 +2,11 @@
 title: What Are and Aren't Sign Languages - Emeritus Prof. Dr. Sumru Özsoy
 description:
 tags:
-  - Q&A
+  - Presentation
   - Academic
   - Turkish
   - Sumru Özsoy
   - Sign Languages
-pin: true
 math: true
 mermaid: true
 ---

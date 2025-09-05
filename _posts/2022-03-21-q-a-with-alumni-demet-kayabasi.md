@@ -6,7 +6,6 @@ tags:
   - Social
   - Turkish
   - Demet Kayabaşı
-pin: true
 math: true
 mermaid: true
 ---

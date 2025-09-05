@@ -8,7 +8,6 @@ tags:
   - NLP
   - Turkish
   - Deniz Baran Aslan
-pin: true
 math: true
 mermaid: true
 ---
