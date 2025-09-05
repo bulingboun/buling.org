@@ -1,5 +1,5 @@
 ---
+title: Our Archive Sorted by Academic Terms
 layout: categories
-icon: fas fa-stream
 order: 1
 ---
