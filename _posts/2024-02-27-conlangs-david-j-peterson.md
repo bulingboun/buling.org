@@ -10,6 +10,7 @@ tags:
 pin: true
 math: true
 mermaid: true
+categories: 2023-2024, 2023-2024-2
 ---
 
 M’atchomaroon, (greetings in [Dothraki](https://en.wikipedia.org/wiki/Dothraki_language))
