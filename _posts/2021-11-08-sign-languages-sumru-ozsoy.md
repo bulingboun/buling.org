@@ -6,6 +6,7 @@ tags:
   - Academic
   - Turkish
   - Sumru Özsoy
+  - Sign Languages
 pin: true
 math: true
 mermaid: true
