@@ -5,9 +5,8 @@ tags:
   - Academic
   - Presentation
   - Turkish
-  - Lilith Bardakçı
-  - Sociolinguistics
-  - Gender Studies
+  - İsmail Avcı Bucaklişi
+  - Language Death
 math: true
 mermaid: true
 categories: 2024-2025 2024-2025-2
