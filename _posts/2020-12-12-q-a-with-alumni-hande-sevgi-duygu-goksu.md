@@ -7,7 +7,7 @@ tags:
   - Turkish
   - Hande Sevgi
   - Duygu Göksu
-categories: 2020-2021, 2020-2021-2
+categories: 2020-2021 2020-2021-2
 math: true
 mermaid: true
 ---

@@ -10,7 +10,7 @@ tags:
   - Gender Studies
 math: true
 mermaid: true
-categories: 2023-2024, 2023-2024-2
+categories: 2023-2024 2023-2024-2
 ---
 [Dr. Didar Akar](https://linguistics.bogazici.edu.tr/didar-akar) who is a beloved instructor in our department, was kind enough to accept our invitation and give a presentation on Gender and Language.
 

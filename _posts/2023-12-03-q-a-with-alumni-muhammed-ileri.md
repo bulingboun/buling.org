@@ -8,7 +8,7 @@ tags:
   - Muhammed İleri
 math: true
 mermaid: true
-categories: 2023-2024, 2023-2024-1
+categories: 2023-2024 2023-2024-1
 ---
 
 [Muhammed İleri](https://muhammedileri.github.io), who is currently a PhD student in the Department of Linguistics at the University of Pennsylvania, was a previous research assistant in Boğaziçi's Linguistics Department during his MA education here. He was kind enough to accept our invitation and answer our questions about his journey and academic pursuits.

@@ -11,7 +11,7 @@ tags:
   - BÜSOT
 math: true
 mermaid: true
-categories: 2023-2024, 2023-2024-2
+categories: 2023-2024 2023-2024-2
 ---
 [Dr. Işıl Erduyan](https://fled.bogazici.edu.tr/people/isil-erduyan) who is a beloved instructor from the [FLED department of Boğaziçi University](https://fled.bogazici.edu.tr), was kind enough to accept our invitation and give a presentation on migration and language. We planned and organized this event in collaboration with [BÜSOT (Boğaziçi University Sociology Society)](https://instagram.com/busotboun)
 

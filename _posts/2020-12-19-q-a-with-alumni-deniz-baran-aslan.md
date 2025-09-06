@@ -8,7 +8,7 @@ tags:
   - NLP
   - Turkish
   - Deniz Baran Aslan
-categories: 2020-2021, 2020-2021-2
+categories: 2020-2021 2020-2021-2
 math: true
 mermaid: true
 ---
